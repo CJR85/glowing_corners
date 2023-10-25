@@ -27,6 +27,7 @@ body {
   height: 400px;
   background: rgba(45, 45, 45, 1);
   border-radius: 20px;
+  overflow: hidden;
 }
 
 .container .card::before {
